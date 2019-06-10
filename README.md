@@ -17,7 +17,7 @@
 
  cardno值可以在打卡机器上获取
 
- seat_id值可以通过F12开发者工具获取 例如189座位号为
+ seat_id值可以通过F12开发者工具获取 例如189的seatid为531
  ![seat](/seat_id.png)
 
 3.安装<a href="https://jingyan.baidu.com/article/ce09321b94a1272bfe858f5a.html" target="_blank">Python环境</a>，并使用pip安装request库
