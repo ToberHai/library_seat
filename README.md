@@ -22,7 +22,7 @@
 
 3.安装<a href="https://jingyan.baidu.com/article/ce09321b94a1272bfe858f5a.html" target="_blank">Python环境</a>，并使用pip安装request库
 
-4.打开cmd命令行，运行 `python lib_beat.py`
+4.打开cmd命令行，运行 `python lib_bate.py`
 
 ![cmd](/cmd.png)
 
