@@ -1,14 +1,17 @@
 # library_seat
 
+### 9.18更新
+
+更新规则：仅能预约当前一天位置
 
 ### 8.22更新
-	
-	1.采用多线程post方式
-	2.增加持续时间
-	3.提高可靠性
 
-	本次更新请使用命令行 `python lib_bate_threads.py` 运行脚本
-	代码参考CSDN https://blog.csdn.net/henni_719/article/details/73201302
+1.采用多线程post方式
+2.增加持续时间
+3.提高可靠性
+
+本次更新请使用命令行 `python lib_bate_threads.py` 运行脚本
+代码参考CSDN https://blog.csdn.net/henni_719/article/details/73201302
 	
 ### 如果使用本脚本，请您具备以下条件
 
