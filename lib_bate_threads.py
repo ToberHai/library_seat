@@ -30,7 +30,7 @@ day = time1.day
 data = {'cardno':'**********' }
 
 #seat_id是预约座位的编号
-data2 = {'order_date': (datetime.datetime.now()+datetime.timedelta(days=1)).strftime("%Y-%m-%d") ,'seat_id':'****' }
+data2 = {'order_date': datetime.datetime.now().strftime("%Y-%m-%d") ,'seat_id':'****' }
 
 #登录
 url = 'http://210.44.64.139/touchscreen/index.php'
@@ -86,5 +86,5 @@ if __name__ == '__main__':
 	duratiion=120
 	print (duratiion)
 	while (startime+str(duratiion))!=now:
-		run(200,0.08,int(duratiion))
+		run(20,0.08,int(duratiion))
 		now=time.strftime("%Y%m%d%H%M%S")
