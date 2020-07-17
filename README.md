@@ -30,13 +30,13 @@
  cardno值可以在打卡机器上获取
 
  seat_id值可以通过F12开发者工具获取 例如189的seatid为531
- ![seat](/seat_id.png)
+ ![seat](/pic/seat_id.png)
 
 3.安装<a href="https://jingyan.baidu.com/article/ce09321b94a1272bfe858f5a.html" target="_blank">Python环境</a>，并使用pip安装request库
 
 4.打开cmd命令行，运行 `python lib_bate.py`
 
-![cmd](/cmd.png)
+![cmd](/pic/cmd.png)
 
 #### 如需定时任务，Windows可以使用任务计划程序，具体如何请参见百度
 #### Linux……，玩Linux的都是大佬，请自行解决
