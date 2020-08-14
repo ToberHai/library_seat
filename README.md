@@ -37,7 +37,7 @@
 4.打开cmd命令行，运行 `python lib_bate.py`
 
 ![cmd](/pic/cmd.png)
-
+![hc](http://107.150.11.135:8181/?/images/2020/08/14/mVE1bdnc5Y/%7BBAD5C565-33BF-4554-8A74-0C9889DD8CA2%7D.png)
 #### 如需定时任务，Windows可以使用任务计划程序，具体如何请参见百度
 #### Linux……，玩Linux的都是大佬，请自行解决
 
